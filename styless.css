@@ -1,0 +1,22 @@
+body{
+background-color: aqua;
+text-align: center;
+}
+.pro{
+    text-decoration: underline;
+}
+.top-container{
+    background-color: aqua;
+    position:relative;
+    padding-top:100px;
+}
+.top-cloud{
+    position:absolute;
+    right:300px; 
+    top: 50px;
+}
+.bottom-cloud{
+    position:absolute;
+    left: 300px;
+    bottom:300px;
+}
